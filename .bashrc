@@ -1,0 +1,1 @@
+alias lha='ls -lha'
